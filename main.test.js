@@ -29,6 +29,9 @@ function divide (sumnum1, sumnum2){
   return sumnum1 / sumnum2;
 }
 
+function remainder (para1, para2){
+  return para1 % para2;
+}
 
 
 /*********************************************************************************************************************
