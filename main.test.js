@@ -11,8 +11,8 @@ function greet (Jose){
 function sumOfTwo (sum1, sum2){
   sum = sum1 + sum2;
 }
-function multiply(num1, num2, num3){
-  prod = num1 + num2 + num3;
+function multiply (num1, num2, num3) {
+  prod = num1 * num2 * num3;
 }
 
 /*********************************************************************************************************************
