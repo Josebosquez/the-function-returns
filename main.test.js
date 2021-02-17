@@ -1,9 +1,19 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+let greeting = "Hello";
+let sum = 0;
+let prod = 0;
 
-
-
+function greet (Jose){
+  greeting = greeting + " " + Jose;
+}
+function sumOfTwo (sum1, sum2){
+  sum = sum1 + sum2;
+}
+function multiply(num1, num2, num3){
+  prod = num1 + num2 + num3;
+}
 
 /*********************************************************************************************************************
 
