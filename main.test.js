@@ -2,6 +2,7 @@
  * YOUR CODE HERE *
  ******************/
 let greeting = "Hello";
+let greeting1 = "Hello";
 let sum = 0;
 let prod = 0;
 
@@ -14,6 +15,12 @@ function sumOfTwo (sum1, sum2){
 function multiply (num1, num2, num3) {
   prod = num1 * num2 * num3;
 }
+
+function sayHi(name){
+  output = greeting1 + " " + name + "!";
+    return output;
+}
+
 
 /*********************************************************************************************************************
 
