@@ -16,10 +16,19 @@ function multiply (num1, num2, num3) {
   prod = num1 * num2 * num3;
 }
 
+function returnWhatISay(students){
+    return students;
+}
+
 function sayHi(name){
   output = greeting1 + " " + name + "!";
     return output;
 }
+
+function divide (sumnum1, sumnum2){
+  return sumnum1 / sumnum2;
+}
+
 
 
 /*********************************************************************************************************************
